@@ -15,7 +15,7 @@ const Navbar = () => {
    return (
       <div className={`main ${darkMode ? 'dark' : ''}`}>
          <div className="you">
-            <h2>Your Name</h2>
+            <h2>Rashmi Singh</h2>
             <div className="blog">
                <Link to="blog"><p>Blog</p></Link>
                <Link to="projects"><p>Projects</p></Link>
