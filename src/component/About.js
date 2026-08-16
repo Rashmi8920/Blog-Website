@@ -6,7 +6,7 @@ const About=()=>{
     return(
         <>
        <br /><br />  <hr />
- <h1 className='rashmi'>VINNIET SINGH</h1>
+ <h1 className='rashmi'>RASHMI SINGH</h1>
  <hr /> <br />
  <img src={about} alt="about"  className='about' />
  <h3>About Me</h3>
