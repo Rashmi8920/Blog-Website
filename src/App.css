@@ -1,0 +1,41 @@
+
+.app-container {
+    background-color: white;
+    color: black;
+    min-height: 100vh;
+    transition: background-color 0.3s, color 0.3s;
+}
+.btn{
+    cursor: pointer;
+    height: 43px;
+    width: 100px;
+    font-size: 30px;
+    padding: -19px 10px 10px 10px;
+    text-align: left;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+.links a {
+    margin: 0 10px;
+    color: red;
+    color: inherit;
+    text-transform: none;
+    font-weight: bold;
+}
+.links{
+    font-size: 22px;
+}
+
+.dark {
+    background-color: black;
+    color: #ffffff;
+}
+.links a {
+    color: inherit; 
+}

@@ -1,0 +1,236 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;  font-family: Arial, Helvetica, sans-serif;
+
+}
+.you{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ margin-left: 50px;
+    color: black ;
+    margin-top: -50px;
+    padding: 70px;    
+}
+.blog{
+   
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+    font-size: 20px;
+    margin-right: 190px;
+}
+.blog p{
+    color: rgb(97, 94, 94);
+    cursor: pointer;
+}
+.blogheading{
+    /* background-color: rgb(14, 250, 246); */
+    font-size: 220px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+hr{
+    width: 80%;
+    margin-left: 110px;
+}
+.mode{
+    display: flex;
+    justify-content: space-evenly;
+    height: 41px;
+    width: 100px;
+    border-radius: 40px;
+    background: black;
+    padding: 5px;
+    margin-top: -15px;
+    cursor: pointer;
+}
+.moon{
+    cursor: pointer;
+    background: transparent;
+    font-size: 25px;
+    margin-top: -6px;
+}
+.whitediv{
+    margin-top: 5px;
+    height: 20px;
+    width: 20px;
+    background: white;
+    border-radius: 50%;
+}
+.migrating{
+    display: flex;
+    text-align: center;
+}
+.migrigfirstdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+.migrigfirstdiv{
+    /* border: 2px solid black;; */
+
+}
+
+
+
+
+
+
+.recent{
+    padding: 40px;
+    margin-top: 25px;
+    margin-left: 65px;
+}
+.img1{
+    margin-left: 65px;
+    width: 80%;
+    height: 49%;
+}
+.oliv{
+    color: #5c0886b9;
+    text-align: left;
+    margin-left: 100px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.uxreview{
+    text-align: left;
+ margin-left: 98px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.uparrow{
+    margin-left: 305px;
+}
+.how{
+    color: rgb(160, 157, 157);
+    text-align: left;
+    font-size: 20px;
+    margin-left: 97px;
+    margin-top: 15px;
+}
+.designbtn,.researchbtn, .presentbtn{
+    width: 120px;
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 18px;
+   color: rgb(192, 24, 80);
+ 
+   margin: 10px;
+   border: none;
+}
+.presentbtn{
+    background: rgb(250, 230, 237);
+}
+.designbtn{
+    width: 97px;
+   background: rgb(248, 217, 248);
+    color: rgb(111, 13, 156);
+}
+.design{
+    text-align: left;
+    margin-left: 85px;
+    margin-top: 20px;
+}
+.researchbtn{
+    color: blue;
+    background: rgb(242, 210, 230);
+    width: 110px;
+}
+.img-2{
+    /* margin-left: 100px; */
+    width: 58%;
+    height:205px;
+}
+.img-3{
+    width: 55%;
+    height:210px;
+ margin-top: 30px;
+}
+.migright{
+    margin-right: 30px;
+}
+.phonenix{
+    color: rgb(135, 5, 171);
+    text-align: left ;
+    margin-left: 30px;
+    font-weight: bold;
+ font-family: Arial, Helvetica, sans-serif;
+}
+.migrlinear{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.linearhelp{
+    margin-left: 30px;
+    margin-top: 15px;
+    color: rgb(137, 135, 135);
+    font-size: 16px;
+    line-height: 0.7;
+    text-align: left;
+   opacity: 1.5;
+}
+.designbtns{
+    background: rgb(248, 217, 248);
+    color: rgb(111, 13, 156);
+    height: 30px;
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 18px;
+   margin: 10px;
+   border: none;
+   margin-top: 30px;
+   margin-left:20px
+}
+.researchbtns{
+    color: blue;
+    height: 30px;
+    background: rgb(242, 210, 230);
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 18px; 
+   margin: 10px;
+   border: none; 
+   margin-top: 30px;
+}
+.thirdiv{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.img4{
+    width: 50%;
+    margin-left: 88px;
+}
+.img5{
+   height: 270px; 
+   width: 360px;
+   margin-left: 50px;
+}
+.all{
+    margin-left: 90px;
+    color: rgb(56, 54, 54);
+    margin-bottom: 30px;
+}
+
+.thrdupmain{
+    display: flex;
+    gap: 5px;
+    margin-left: 50px;
+}
+.pre{
+    display: flex;
+    justify-content: space-between;
+}
+.count{
+    display: flex;
+    gap: 30px;
+}

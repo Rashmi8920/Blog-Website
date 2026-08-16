@@ -1,0 +1,86 @@
+.project{
+    font-size: 227px;
+    text-align: center;
+}
+.mainprodiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+.list{
+    color: black;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img11{
+    width: 592;
+    height: 330px;
+   
+}
+.user{
+    color: black;
+    font-size: 19px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.userdiv{
+    margin-left: 130px;
+}
+.inthe{
+    margin-right: 40px;
+    line-height: 1.2;
+}
+.img12,.img11{
+  margin-left: 20px;
+}
+.listbtn button{
+    border: none;
+    margin-top: -15px;
+    margin-left: 25px;
+    height: 28px;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 17px;
+    font-size: 16px;
+}
+.desbtn{
+    color: rgb(183, 40, 183);
+    background: hsl(303, 62%, 94%);
+    width: 50px;
+}
+.rebtn{
+    color: rgb(87, 19, 212);
+    background: rgb(182, 218, 248);
+    width: 60px;
+}
+.prbtn{
+    color: rgb(227, 6, 172);
+    background: rgb(245, 224, 238);
+}
+.img13{
+    width: 1236px;
+    height: 556px;
+    margin-left: 150px;
+}
+.there{
+    margin-left: 150px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.la{
+    margin-left: 130px;
+    margin-top: 30px;
+}
+.proje{
+    display: flex;
+    margin-top: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+    margin-left: 150px;
+}
+.proje p{
+    color: black;
+}

@@ -1,0 +1,21 @@
+
+.main {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    transition: background-color 0.3s, color 0.3s;
+ }
+ 
+ .main.dark {
+    background-color: black;
+    color: white;
+ }
+ 
+
+ .blog p, .you h2 {
+    margin: 0;
+    padding: 10px;
+ }
+ 
+
+ 

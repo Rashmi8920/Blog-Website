@@ -1,0 +1,28 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box; 
+}
+
+.rashmi{
+    /* margin-top: 20px; */
+    margin-left: 100px;
+    font-family: Helvetica, sans-serif;
+    font-size: 145px;
+    font-weight: 900;
+}
+.about{
+    width: 98%;
+    margin-left: 25px;
+}
+h3, li,p{
+    margin-left: 20px;
+    color: rgb(108, 105, 105);
+}
+h3{
+    color:black;
+}
+.p {
+    display: flex;
+    /* gap: 30px; */
+    margin-left: 100px;
+    color: white;
+}
